@@ -1,0 +1,14 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+
+@import url(./utils/interface.css);
+@import url(./components/Promo/Promo.css);
+
+@import url(./components/Сomposition/Composition.css);
+@import url(./components/Feedback/Feedback.css);
+@import url(./components/ProductPromo/ProductPromo.css);
+@import url(./components/OrderForm/OrderForm.css);
+@import url(./components/ButtonOrder/ButtonOrder.css);
+
+
+
